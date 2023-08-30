@@ -1,0 +1,31 @@
+{
+  "name": "up-cli-alpha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/node18": "^2.0.1",
+    "@types/eslint": "^8.37.0",
+    "@types/minimist": "^1.2.2",
+    "@types/node": "^18.17.1",
+    "@types/prompts": "^2.4.4",
+    "@vue/create-eslint-config": "^0.2.1",
+    "@vue/tsconfig": "^0.4.0",
+    "esbuild": "^0.17.18",
+    "esbuild-plugin-license": "^1.2.2",
+    "husky": "^8.0.3",
+    "kolorist": "^1.8.0",
+    "lint-staged": "^13.2.2",
+    "minimist": "^1.2.8",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.8.8",
+    "prompts": "^2.4.2",
+    "zx": "^4.3.0"
+  }
+}

@@ -1,0 +1,5 @@
+declare module 'node:fs'
+declare module 'node:path'
+declare module 'minimist'
+declare module 'prompts'
+declare module 'kolorist'
